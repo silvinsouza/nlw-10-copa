@@ -6,7 +6,7 @@
 
 Projeto desenvolvido no evento Next Level Week Copa da Rocketseat.
 
-[Clique aqui para acessar](https://silvinsouza.github.io/nlw-esports-explorer)
+[Clique aqui para acessar](https://silvinsouza.github.io/nlw-10-copa)
 
 ## 🛠 Tecnologias
 
